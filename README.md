@@ -1,6 +1,6 @@
 ## Salut ! C'est cbag ...
 <p align="center"> 
-  Tu es le visiteur n: <br>
+  Tu es le visiteur  <br>
   <img src="https://profile-counter.glitch.me/joe-pierre/count.svg" />
 </p>
 <div align="center">
