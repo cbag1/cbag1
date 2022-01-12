@@ -1,4 +1,8 @@
 ## Salut ! C'est cbag ...
+<p align="center"> 
+  Tu es le visiteur n: <br>
+  <img src="https://profile-counter.glitch.me/joe-pierre/count.svg" />
+</p>
 <div align="center">
   <a href="https://github.com/cbag1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cbag1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/">
